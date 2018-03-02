@@ -1,3 +1,0 @@
-try push a file to github
-create a new line from github
-create a new file from centos to github.
